@@ -3,6 +3,10 @@
 #include <iostream>
 
 int main() {
+<<<<<<< HEAD
     std::cout << "Hello World to dev!";
+=======
+    std::cout << "Hello World to feat!";
+>>>>>>> feat
     return 0;
 }
